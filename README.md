@@ -1,7 +1,5 @@
-WebSSH2
-GitHub version
+WebSSH
 
-Buy Me A Coffee
 
 Web SSH Client using ssh2, socket.io, xterm.js, and express
 
